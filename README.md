@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am a software engineer mainly working on machine-learning based methods with a focus on image analysis.
+
+For software development in Python, I am making use of [uv](https://docs.astral.sh/uv/), [ruff](https://docs.astral.sh/ruff/) and [ty](https://docs.astral.sh/ty/).
+
+For my IDEs, I like to use [VSCodium](https://vscodium.com/) and [Zed](https://zed.dev/).
+
+For AI-assisted coding, I am using [OpenCode](https://opencode.ai/) as harness.
+
 <!--
 **alexkrz/alexkrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
